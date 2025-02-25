@@ -1,4 +1,4 @@
-# PwnFox
+# VulnKit
 
 An innovative open-source hardware and software platform designed for creating a **pentesting device** capable of many soon released features. This repository soon includes PCB design files, firmware, and comprehensive documentation to bring the project to life.
 
@@ -6,7 +6,7 @@ An innovative open-source hardware and software platform designed for creating a
 
 ## 🚀 Features
 
-- **Powerful Hardware**: Includes ESP32-S3, CC1101, PN532, and more.
+- **Powerful Hardware**: Includes ESP32-S3, CC1101, PN7150, and more.
 - **Expandable Storage**: MicroSD card slot for additional data storage.
 - **Connectivity Options**: USB-C with LiPo charging capabilities.
 - **User-Friendly Interface**: Custom UI.
@@ -87,8 +87,8 @@ If you like this project, give it a star ⭐ and share it with your network!
 
 ## 📊 Roadmap
 
-- [x] Design PCB
-- [x] Implement basic UI and functions
+- [ ] Design PCB
+- [ ] Implement basic UI and functions
 - [ ] Add support for additional protocols
 - [ ] Release stable firmware version
 - [ ] Work on the User Ideas
