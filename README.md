@@ -36,8 +36,8 @@ An innovative open-source hardware and software platform designed for creating a
 ### Firmware Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Luka-io/PwnFox.git
-   cd PwnFox
+   git clone https://github.com/Luka-io/VulnKit.git
+   cd VulnKit
    ```
 2. Install dependencies using PlatformIO:
    ```bash
