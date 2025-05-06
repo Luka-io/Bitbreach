@@ -1,14 +1,14 @@
-# VulnKit
+# Bitbreach
 
-An innovative open-source hardware and software platform designed for creating a **pentesting device** capable of many soon released features. This repository soon includes PCB design files, firmware, and comprehensive documentation to bring the project to life.
+An innovative open-source hardware and software platform designed for creating a Retro Emulation and **pentesting handhelt** capable of many soon released features. This repository soon includes PCB design files, firmware, and comprehensive documentation to bring the project to life.
 
 ---
 
 ## 🚀 Features
 
-- **Powerful Hardware**: Includes ESP32-S3, CC1101, PN7150, and more.
+- **Powerful Hardware**: Includes ESP32-S3, 2x CC1101, PN7150, StM32G4 and more.
 - **Expandable Storage**: MicroSD card slot for additional data storage.
-- **Connectivity Options**: USB-C with LiPo charging capabilities.
+- **Connectivity Options**: USB-C with LiPo charging capabilities , Gipo + Ipex .
 - **User-Friendly Interface**: Custom UI.
 - **Advanced Protocols**: Supports IR, RFID/NFC, and sub-GHz ...etz..communication.
 - **Community Growing Projekt Goal**: Social Media Groups.
