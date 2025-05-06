@@ -117,7 +117,7 @@ We’ll proudly showcase your components, modules, or services in our open ecosy
 
 ## 💚 Big Thanks to Our First Sponsor: JLCPCB
 
-[![JLCPCB Logo]([https://jlcpcb.com/static/img/logo/jlcpcb-logo.svg)
+![JLCPCB Logo]([https://jlcpcb.com/static/img/logo/jlcpcb-logo.svg)
 
 BitBreach wouldn’t exist without rapid prototyping, and JLCPCB made our board dreams reality — affordably and fast.
 Need your own PCBs? We highly recommend them!
