@@ -122,7 +122,7 @@ This is a glimpse — full integration and tutorials coming soon.
 | 🔜 Injection Mold Case| Final designs    |
 | 🔜 SDK & App Store    | In development   |
 | 🔜 Community Platform | Under construction |
-| ✅ Fully Open Source  | Post-Kickstarter |
+| ✅ Fully Open Source  | Soon |
 
 ---
 
