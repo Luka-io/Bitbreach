@@ -104,6 +104,14 @@ You don't need to be an expert to use BitBreach — you'll **become one** using 
 
 ---
 
+⚡ Bruce Firmware Teaser
+
+BitBreach will support Bruce firmware for advanced hacking workflows.
+Early adopters can experiment with custom protocols, packet analysis, and modular exploits.
+This is a glimpse — full integration and tutorials coming soon.
+
+---
+
 ## 🧪 Roadmap
 
 | Phase                   | Status           |
