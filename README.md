@@ -141,6 +141,21 @@ Whether you want to build the next RFID app, learn how glitching works, or make 
 
 ---
 
+📂 Media
+
+All photos, renders, GIFs, and demo videos are stored in the docs/media/ folder.
+Check them out to see BitBreach in action, including prototypes, animations, and development updates.
+
+---
+
+👤 About the Creator
+
+I’m 16 years old. BitBreach is my personal project — built from scratch while learning electronics, firmware, and 3D design.
+
+Some parts of this README and repository organization were polished with AI tools to make it easier to read and navigate, while all technical content and decisions are fully my own.
+
+---
+
 ## 🤝 Sponsors Welcome
 
 We're building something special, and we’re looking for partners to build it with us.
