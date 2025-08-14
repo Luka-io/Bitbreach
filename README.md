@@ -20,8 +20,8 @@ BitBreach is a modular hacking and gaming handheld powered by the **ESP32-S3**, 
 It features dual **CC1101 radios**, **Wifi/Ble**, **NFC**, **IR**, **microSD**, **glitching hardware**, and even a Tamagotchi-style digital pet.
 
 ✅ Retro gaming  
-✅ Voltage glitching
-✅ WiFi & BLE hacking
+✅ Voltage glitching  
+✅ WiFi & BLE hacking  
 ✅ Hack-to-unlock forum perks  
 ✅ Fully open source
 
