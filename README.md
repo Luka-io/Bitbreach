@@ -186,5 +186,5 @@ Help us make **BitBreach** the tool you wish you always had.
 
 ##  Slogan
 
-> **Hack it. Flip it. Own it.**  
+> **Hack it. Crack it. Own it.**  Big thanks to vikingtells for the Idea
 > **BitBreach – small in size, massive in power.**
