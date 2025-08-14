@@ -1,5 +1,5 @@
 # ⚡ BitBreach  
-**Hack it. Flip it. Own it.**
+**Hack it. Crack it. Own it.**
 
 BitBreach is the ultimate pocket-sized Swiss Army Knife for hackers, learners and makers.  
 It’s not just another Pentest Device , its all in one 
