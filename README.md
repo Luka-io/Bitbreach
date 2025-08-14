@@ -7,6 +7,11 @@ It’s not just a Flipper killer — it’s your new favorite toy, toolkit, emul
 > No cloud nonsense. No locked-down firmware.  
 > Built for fun, learning, freedom — and total control.
 
+<p align="center">
+  <img src="docs/media/Bitbreach.gif" width="600" alt="BitBreach 3D Render">
+</p>
+
+
 ---
 
 ## 🔥 What is BitBreach?
