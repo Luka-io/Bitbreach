@@ -76,7 +76,7 @@ BitBreach is not just for hackers. It's a **learning platform, creativity statio
 
 -  Build and flash your first firmware  
 -  Learn about RF, NFC, IR, and hardware buses  
-- 🛠 Tinker with GPIOs, I2C, SPI, glitching  
+-  Tinker with GPIOs, I2C, SPI, glitching   
 -  Guided tutorials planned for **everything**  
 -  Made for students, makers, and curious minds
 
