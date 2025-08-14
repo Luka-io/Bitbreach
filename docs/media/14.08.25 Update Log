@@ -1,0 +1,9 @@
+14.08.25 Update Log
+As you can see the Projekt has some Problems ..
+The tft connectors pins were swapped so i had to remove it an solder wires .
+1x CC1101 IC failed so i had to remove it , while the other one has problems with the matching circuit (looks like i have to buy and sdr for further testing)
+The power LDO ic had a minimum input voltage of 4.5v , wich made me salvage a Voltage Converter Circuit from a random Chinesse Wifi Camera (works great)
+The buttons arent clicky enough and reactife , i put 2 smd buttons on top of the membrane pcb part..
+The Esp32s3 was is a dead state of Bootlooping , no tool could save it so i had to remive the metal Cover and swap the Flash Ic 
+The CC1101 wont work great with any Libary with the Stm32g431 arduino core so i had to use bare SPI Register Protocols (tricky but working)
+The (always "The" , i know nice Text writing ;) ) Pn7510 was missing 2 pins connected to the esp , luckly i had 2 free pins near the ic (works perfectly) 
