@@ -1,0 +1,19 @@
+1 Month has passed since my last update 
+I had/have a bunch of school work to do so i dont really have much time for the Projekt, but still here is a sneak peak
+
+I finished :
+Lipo Handling
+Sd Handling
+Main/Submenu Logik (with Icons and dynamicly addable Menus)
+Usb Port MCU switching Host
+Retro Go Firmware is Ported now and works (still needs some tweaks)
+Speaker (Sounds)
+
+Tested :
+Nfc/Rfid Ic (works fine , not finished)
+CC1101 (Sub Ghz) it has some wierd Problems with the Internal Registers , i found ways to fix it manually so i will have to rewrite RadioLib to work with it 
+Stm32G431 works fine
+
+Note :
+I will maybe change the second C1101 out with an Lora IC , A small movement against the EU Chat Controll 
+--> This wont Remove the Rolling Code double CC1101 Function , it will just need an external CC1101
