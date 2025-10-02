@@ -5,6 +5,8 @@
 A pocket-sized hacking and gaming device. Built by a 16-year-old who got tired of locked-down and expensive hardware.
 
 ![BitBreach Render](docs/media/Bitbreach.gif)
+**Outdated Animation , V2 is almost done**
+
 
 ---
 
