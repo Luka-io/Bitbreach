@@ -20,7 +20,7 @@ BitBreach is a handheld multitool for security research, RF hacking, and retro g
 
 No cloud. No subscriptions. No locked firmware. You own it.
 
-**Size:** 100mm × 50mm × ~17mm (fits in your pocket)
+**Size:** 100mm × 50mm × ~20mm (fits in your pocket)
 
 ---
 
@@ -28,7 +28,7 @@ No cloud. No subscriptions. No locked firmware. You own it.
 
 - **Main CPU:** ESP32-S3 (WiFi, BLE, AI-capable)
 - **Secondary CPU:** STM32G4 (for glitching and peripherals)
-- **Display:** 2" TFT (240×320)
+- **Display:** 2.4" TFT (240×320)
 - **Audio:** Built-in speaker
 - **RF:** CC1101 Sub-GHz (3-band matching network: 315/433/868 MHz)
 - **LoRa:** LLCC68 at 868 MHz (long-range mesh networking)
