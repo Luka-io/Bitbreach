@@ -4,14 +4,28 @@
 
 A pocket-sized hacking and gaming device. Built by a 16-year-old who got tired of locked-down and expensive hardware.
 
----
-
-**Outdated Animation , V2 unfinished sneak peak in docs/media**
 
 
 ---
 
 ![BitBreach Render](docs/media/BItbreach.jpg)
+
+---
+
+**Internals**
+
+
+![BitBreach Render](docs/media/1.png)
+
+![BitBreach Render](docs/media/2.png)
+
+---
+
+**Remember Blackberry or miss anonymity?**
+
+![BitBreach Render](docs/media/4.png)
+
+---
 
 
 ## What is this?
