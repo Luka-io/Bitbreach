@@ -4,6 +4,7 @@
 
 A pocket-sized hacking and gaming device. Built by a 16-year-old who got tired of locked-down and expensive hardware.
 
+Hackaday for Projekt Updates ---> https://hackaday.io/project/204325-bitbreach-open-source-pentesting-multitool
 
 
 ---
@@ -19,13 +20,7 @@ A pocket-sized hacking and gaming device. Built by a 16-year-old who got tired o
 
 ![BitBreach Render](docs/media/2.png)
 
----
 
-**Remember Blackberry or miss anonymity?**
-
-![BitBreach Render](docs/media/4.png)
-
----
 
 
 ## What is this?
@@ -126,6 +121,13 @@ Perfect for situations where internet and cell networks aren't an option—or wh
 I'm 16, from Germany. I taught myself electronics, firmware, and hardware design. BitBreach started as a personal project and grew into something bigger.
 
 Some parts of this README were cleaned up with AI tools for readability, but all technical decisions and design work are mine.
+
+
+---
+
+**Remember Blackberry or miss anonymity?**
+
+![BitBreach Render](docs/media/4.png)
 
 ---
 
