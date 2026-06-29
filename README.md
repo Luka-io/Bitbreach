@@ -1,4 +1,4 @@
-# BitBreach
+# BitBreach (Paused)
 
 **Hack it. Crack it. Own it.**
 
